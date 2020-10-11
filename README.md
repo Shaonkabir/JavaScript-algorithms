@@ -8,7 +8,7 @@ It is quite simple to test any of the `Algorithm`.
 
 __🎉 Clone the repo & Start Hacking 😎__ 
 
-🚀 Example: `node Basic-Algorithms/reverse-a-string.js`
+🚀 Example: `node basic-algorithms/fibonacci.js`
 
 
 
