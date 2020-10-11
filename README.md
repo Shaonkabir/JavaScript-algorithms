@@ -27,8 +27,9 @@ __🎉 Clone the repo & Start Hacking 😎__
 |  10   |   Intermediate |  [Diff two array](/intermediate-algorithms/diff-two-array.js)       |
 |  11   |   Intermediate |[Seek and Destroy](/intermediate-algorithms/seek-and-destroy.js)     |
 |  12   |   Intermediate | [Spinal Top Case](/intermediate-algorithms/spinal-top-case.js)      |
-|  13   |   Intermediate |[Search and Replace](/intermediate-algorithms/search-and-replace.js)   |
+|  13   |   Intermediate |[Search and Replace](/intermediate-algorithms/search-and-replace.js) |
 |  14   |   Advanced 	 |[Find the Symmetric Difference](/advanced_algorithms/symmetric-difference.js) |
-|  15   |   Advanced 	 |[Bubble Sort](/advanced_algorithms/bubble-sort.js)    |
-|  16   |   Advanced 	 |[Selection Sort](/advanced_algorithms/selection-sort.js) |
-|  17   |   Advanced 	 |[Insertion Sort](/advanced_algorithms/insertion-sort.js) |
+|  15   |   Advanced 	 |			[Bubble Sort](/advanced_algorithms/bubble-sort.js)    	   |
+|  16   |   Advanced 	 |		[Selection Sort](/advanced_algorithms/selection-sort.js) 	   |
+|  17   |   Advanced 	 |		[Insertion Sort](/advanced_algorithms/insertion-sort.js) 	   |
+
